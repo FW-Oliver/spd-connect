@@ -1,0 +1,2 @@
+module SpdHelper
+end
