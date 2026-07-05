@@ -3,4 +3,5 @@ Rails.application.routes.draw do
 
   get "/or", to: "or#index"
   get "/spd", to: "spd#index"
+  resources :products
 end

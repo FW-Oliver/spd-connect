@@ -1,0 +1,11 @@
+name,home_location,category,aliases,active
+Set GYN Hysteroscope 12 deg 3mm,GYN Shelf L,Scope Set,"hyst,hysteroscope,gyn scope",TRUE
+Olympus HD Camera,Camera Cabinet,Camera,"camera,hd camera",TRUE
+Stryker Camera Head,Camera Cabinet,Camera,"camera head,stryker",TRUE
+Kerrison Set #2,Neuro Shelf D,Instrument Set,kerrison,TRUE
+Kerrison Rongeur,Neuro Shelf F,Instrument,"rongeur,kerrison",TRUE
+Micro Scissors,Micro Shelf A,Instrument,micro scissors,TRUE
+Yankauer Suction,General Shelf B,Suction,yankauer,TRUE
+Frazier Suction,Suction Shelf C,Suction,frazier,TRUE
+Gelpi Retractor,Retractor Shelf A,Retractor,gelpi,TRUE
+Army Navy Retractor,Retractor Shelf B,Retractor,army navy,TRUE
